@@ -1,0 +1,35 @@
+.slider h3,.slider h5{
+    /* size arah blur color */
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5);; 
+}
+
+.client h2{
+    /* size arah blur color */
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5);; 
+}
+
+hr{
+    border: 2px solid gray;
+    width: 250px;
+}
+
+/* parallax */
+.parallax-container {
+    height: 20%;
+}
+
+/* .parallax img{
+    filter: grayscale(1);
+    opacity: .6 !important;
+} */
+
+.client img{
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,1));
+}
+
+/* services */
+.services,.contact,.portofolio{
+    padding: 20px 0;
+}
+
